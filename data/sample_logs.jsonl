@@ -1,0 +1,6 @@
+{"timestamp": "2026-11-17T08:12:01Z", "event_id": 4625, "user": "admin_payroll", "source_ip": "185.220.101.4", "status": "Failed Login"}
+{"timestamp": "2026-11-17T08:12:05Z", "event_id": 4625, "user": "admin_payroll", "source_ip": "185.220.101.4", "status": "Failed Login"}
+{"timestamp": "2026-11-17T08:12:09Z", "event_id": 4625, "user": "admin_payroll", "source_ip": "185.220.101.4", "status": "Failed Login"}
+{"timestamp": "2026-11-17T08:12:12Z", "event_id": 4625, "user": "admin_payroll", "source_ip": "185.220.101.4", "status": "Failed Login"}
+{"timestamp": "2026-11-17T09:30:00Z", "event_id": 4672, "user": "svc_sql_backup", "source_ip": "10.0.15.22", "status": "Special Privileges Assigned"}
+{"timestamp": "2026-11-17T10:05:14Z", "event_id": 4624, "user": "jdoe", "source_ip": "10.0.12.105", "status": "Successful Login"}
